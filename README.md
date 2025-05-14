@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Gayatri!
+Welcome to my GitHub profile! I'm passionate about Core Java and enjoy working on projects that help me learn and improve my skills.
 
-<!--
-**Gayatri-7/Gayatri-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technologies & Tools:
 
-Here are some ideas to get you started:
+Core Java(my primary language)
+Git & GitHub
+Data Structures & Algorithms**
+SQL for databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Focus:
+
+* Building Java projects to deepen my understanding
+* Exploring problem-solving with Java
+* You can find some **Java interview questions** and **DSA questions** on my profile to help with practice and learning.
+
+🌻Feel free to check out my repositories and reach out if you have any questions!
