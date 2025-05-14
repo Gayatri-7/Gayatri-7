@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Gayatri!
-Welcome to my GitHub profile! I'm passionate about Core Java and enjoy working on projects that help me learn and improve my skills.
+Welcome to my GitHub profile! I'm passionate about Core Java and enjoy working on projects and DSA problems that help me learn and improve my skills.
 
 ## 💻 Technologies & Tools:
 
