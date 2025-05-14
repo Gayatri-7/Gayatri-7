@@ -3,10 +3,10 @@ Welcome to my GitHub profile! I'm passionate about Core Java and enjoy working o
 
 ## 💻 Technologies & Tools:
 
-Core Java(my primary language)
-Git & GitHub
-Data Structures & Algorithms**
-SQL for databases
+🌻Core Java(my primary language)
+🌻Git & GitHub
+🌻Data Structures & Algorithms
+🌻SQL for databases
 
 ## 🌱 Current Focus:
 
